@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>主要ニュース要約 (AI選定)</title>
+<link>https://[あなたのユーザー名].github.io/[リポジトリ名]/rss_major.xml</link>
+<description>Geminiによって選ばれた、その日の主要トピック 10 選</description>
+<language>ja-jp</language>
+<pubDate>Fri, 07 Nov 2025 12:43:43 GMT</pubDate>
+<item>
+<title><![CDATA[日本IT大手、軒並み増収増益達成 (サイト数: 6)]]></title>
+<link>https://xtech.nikkei.com/atcl/nxt/news/24/02949/</link>
+<description><![CDATA[【要約】
+日本の主要IT企業であるKDDI、ソフトバンク、BIPROGY、CTC、NTTデータGなどが2025年4～9月期に軒並み増収増益を達成した。料金改定、非通信事業の拡大、AI関連やセキュリティ製品の寄与、データセンター譲渡益などが好調の要因とされている。一部企業は通期業績予想も上方修正し、市場の好調を反映する結果となった。景気動向や技術投資の加速が、これらの企業の成長を後押ししていると見られる。
+
+【参照元サイト (6件)】
+- https://xtech.nikkei.com/atcl/nxt/news/24/02949/
+- https://xtech.nikkei.com/atcl/nxt/news/24/02943/
+- https://xtech.nikkei.com/atcl/nxt/news/24/02942/
+- https://xtech.nikkei.com/atcl/nxt/column/18/00001/11236/
+- https://xtech.nikkei.com/atcl/nxt/news/24/02941/
+- https://xtech.nikkei.com/atcl/nxt/news/24/02938/]]></description>
+<guid isPermaLink="false">日本IT大手、軒並み増収増益達成-1762519423978</guid>
+<pubDate>Fri, 07 Nov 2025 12:43:43 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Microsoft 365 Copilot機能強化と課題 (サイト数: 5)]]></title>
+<link>https://www.computerworld.com/article/4085852/microsoft-issues-apology-for-misleading-microsoft-365-pricing-plans.html</link>
+<description><![CDATA[【要約】
+Microsoftは、Microsoft 365の誤解を招く料金プランについて謝罪するとともに、Copilotのデータ処理をローカル化し、データ主権要求に対応する方針を示した。また、企業向けWindowsにおけるOfficeサンドボックスファイルセキュリティが2027年後半に廃止されることを確認。Copilot+ PCも発売から1年半が経過し、その実用性に関する議論が続いている。Microsoft 365の継続的なアップデートと、AI機能の企業利用におけるセキュリティ、データ管理、価格設定が焦点となっている。
+
+【参照元サイト (5件)】
+- https://www.computerworld.com/article/4085852/microsoft-issues-apology-for-misleading-microsoft-365-pricing-plans.html
+- https://www.computerworld.com/article/4085303/m365-copilot-data-processing-goes-local-to-meet-sovereignty-demands.html
+- https://www.computerworld.com/article/4085166/office-sandbox-file-security-to-disappear-from-enterprise-windows-by-late-2027-microsoft-confirms.html
+- https://www.computerworld.com/article/1710697/office-365-a-guide-to-the-updates.html
+- https://xtech.nikkei.com/atcl/nxt/column/18/02737/103100047/]]></description>
+<guid isPermaLink="false">Microsoft 365 Copilot機能強化と課題-1762519423978</guid>
+<pubDate>Fri, 07 Nov 2025 12:43:43 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[テスラ株主、マスク氏1兆ドル報酬を承認 (サイト数: 4)]]></title>
+<link>https://techcrunch.com/2025/11/06/tesla-delays-reveal-of-production-roadster-2-to-april-fools-day/</link>
+<description><![CDATA[【要約】
+テスラの株主総会でイーロン・マスクCEOへの最大1兆ドル超の報酬パッケージ案が承認された。この承認により、マスク氏の会社におけるリーダーシップが再確認された形となる。また、テスラは新型Roadster 2の発表をエイプリルフールに延期し、サイバートラックをベースとした自動運転タクシー「Cybercab」の生産を4月に開始するとマスク氏は主張している。これらの動きは、テスラの将来の製品ラインナップと経営体制に大きな影響を与える可能性がある。
+
+【参照元サイト (4件)】
+- https://techcrunch.com/2025/11/06/tesla-delays-reveal-of-production-roadster-2-to-april-fools-day/
+- https://techcrunch.com/2025/11/06/tesla-to-begin-cybercab-production-in-april-musk-claims/
+- https://techcrunch.com/2025/11/06/tesla-shareholders-approve-elon-musks-1t-pay-package/
+- https://gigazine.net/news/20251107-tesla-1-trillion-pay-package-for-eron-musk/]]></description>
+<guid isPermaLink="false">テスラ株主、マスク氏1兆ドル報酬を承認-1762519423978</guid>
+<pubDate>Fri, 07 Nov 2025 12:43:43 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[OpenAIが示す経営戦略とAI安全基準 (サイト数: 4)]]></title>
+<link>https://techcrunch.com/2025/11/06/sam-altman-says-openai-has-20b-arr-and-about-1-4-trillion-in-data-center-commitments/</link>
+<description><![CDATA[【要約】
+OpenAIのサム・アルトマンCEOは、年間経常収益が200億ドルに達し、データセンターに約1.4兆ドルをコミットしていることを明らかにした。同時に、もしOpenAIが失敗しても政府による救済を望まないとの姿勢を示した。一方で、Microsoftの研究チームは、OpenAIのAPIがハッカーのバックドアに悪用されていると報告。これを受けOpenAIは、10代のAIユーザー向けの安全基準策定に関して政府への5つの提案を発表するなど、AIの安全性と倫理的利用への対応を強化している。
+
+【参照元サイト (4件)】
+- https://techcrunch.com/2025/11/06/sam-altman-says-openai-has-20b-arr-and-about-1-4-trillion-in-data-center-commitments/
+- https://techcrunch.com/2025/11/06/sam-altman-says-he-doesnt-want-the-government-to-bail-out-openai-if-it-fails/
+- https://gigazine.net/news/20251107-openai-teen-safety-blueprint/
+- https://gigazine.net/news/20251106-sesameop-backdoor-openai-assistants-api/]]></description>
+<guid isPermaLink="false">OpenAIが示す経営戦略とAI安全基準-1762519423978</guid>
+<pubDate>Fri, 07 Nov 2025 12:43:43 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Apple、SiriにGoogle Gemini採用か (サイト数: 4)]]></title>
+<link>https://www.computerworld.com/article/4086028/apples-war-in-europe.html</link>
+<description><![CDATA[【要約】
+Appleは、欧州におけるデジタル市場法（DMA）などの規制強化に直面しており、「Appleのヨーロッパでの戦い」が注目されている。同時に、同社はプライベートクラウドコンピューティングと信頼できるAIの開発に注力している。最近の報道では、Appleが新生SiriにGoogleのGeminiカスタムモデルを採用するため、Googleに年間1500億円を支払う可能性があるとされ、AI分野での提携と戦略転換の可能性が示唆されている。Gemini自体も、メールや文書へのアクセス機能を強化し、研究ツールの利用範囲を拡大している。
+
+【参照元サイト (4件)】
+- https://www.computerworld.com/article/4086028/apples-war-in-europe.html
+- https://www.computerworld.com/article/4085883/gemini-research-tool-can-now-access-emails-and-documents.html
+- https://www.computerworld.com/article/4084959/apple-private-cloud-compute-and-trusted-ai.html
+- https://gigazine.net/news/20251106-apple-new-siri-google-gemini-model/]]></description>
+<guid isPermaLink="false">Apple、SiriにGoogle Gemini採用か-1762519423978</guid>
+<pubDate>Fri, 07 Nov 2025 12:43:43 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Meta、詐欺広告が収益の10%との指摘 (サイト数: 4)]]></title>
+<link>https://techcrunch.com/2025/11/06/meta-estimates-that-it-earns-10-of-its-revenue-from-scams-report-says/</link>
+<description><![CDATA[【要約】
+Metaが収益の約10%を詐欺広告から得ていたとの報告があり、詐欺広告への対応を意図的に遅らせていた可能性が指摘されている。これはMetaの倫理的な問題として大きな波紋を呼んでいる。また、同社はAIが生成したショートフォームビデオフィード「AI slop」を欧州にも導入しており、AIによるコンテンツ増加が懸念されている。一方で、マーク・ザッカーバーグCEOが自宅敷地内に無認可の学校を開設し、近隣住民からの反発を受けていることも報じられた。
+
+【参照元サイト (4件)】
+- https://techcrunch.com/2025/11/06/meta-estimates-that-it-earns-10-of-its-revenue-from-scams-report-says/
+- https://techcrunch.com/2025/11/06/meta-brings-its-short-form-video-feed-of-ai-slop-to-europe/
+- https://gigazine.net/news/20251107-meta-scam-ad-profits/
+- https://gigazine.net/news/20251107-meta-zuckerberg-illegal-school/]]></description>
+<guid isPermaLink="false">Meta、詐欺広告が収益の10%との指摘-1762519423978</guid>
+<pubDate>Fri, 07 Nov 2025 12:43:43 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[富士通オフコン移行、迫る期限と課題 (サイト数: 3)]]></title>
+<link>https://xtech.nikkei.com/atcl/nxt/column/18/03391/103000003/</link>
+<description><![CDATA[【要約】
+富士通オフコンのサポート終了が迫り、約700社が移行の本格化に直面している。特に第1弾の期限は残り5カ月とされ、多くのユーザー企業が深い悩みを抱えている。COBOLプログラム、複雑なバッチ処理、レガシーデータベースからの脱却が大きな障壁となっており、情報システム担当者は困難な選択を迫られている。この移行は、単なるシステム更改に留まらず、企業全体のIT戦略とDX推進における大きな課題となっている。
+
+【参照元サイト (3件)】
+- https://xtech.nikkei.com/atcl/nxt/column/18/03391/103000003/
+- https://xtech.nikkei.com/atcl/nxt/column/18/03391/103000002/
+- https://xtech.nikkei.com/atcl/nxt/column/18/03391/103000001/]]></description>
+<guid isPermaLink="false">富士通オフコン移行、迫る期限と課題-1762519423978</guid>
+<pubDate>Fri, 07 Nov 2025 12:43:43 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[AI時代、雇用と人材の変化への対応 (サイト数: 3)]]></title>
+<link>https://www.computerworld.com/article/4084372/analysts-companies-will-face-setbacks-after-ai-layoffs.html</link>
+<description><![CDATA[【要約】
+AIの進化により、多くの企業がAI関連のレイオフを後悔しているという分析が出ている。AI時代には「コピペプログラマー」が不要になるなど、従来のスキルセットが陳腐化する可能性が指摘されており、「ジョブ消滅」時代をどう生きるかが問われている。企業は熟練社員の暗黙知をAIに継承させる戦略を模索し、変革人材の育成が急務となっている。AIは生産性向上に寄与する一方で、雇用構造と人材戦略に抜本的な変革を迫っている。
+
+【参照元サイト (3件)】
+- https://www.computerworld.com/article/4084372/analysts-companies-will-face-setbacks-after-ai-layoffs.html
+- https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/103100131/
+- https://xtech.nikkei.com/atcl/nxt/column/18/00138/110401885/]]></description>
+<guid isPermaLink="false">AI時代、雇用と人材の変化への対応-1762519423978</guid>
+<pubDate>Fri, 07 Nov 2025 12:43:43 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[HUAWEI Mate 70 Air、超薄型スマホの挑戦 (サイト数: 2)]]></title>
+<link>https://ascii.jp/elem/000/004/350/4350296/?rss</link>
+<description><![CDATA[【要約】
+ファーウェイが超薄型スマートフォン「HUAWEI Mate 70 Air」を本国で発表し、「iPhone Air」に対抗する製品として注目されている。これはスマートフォンの薄型化競争における新たな動きを示している。詳細なスペックや市場投入戦略は不明だが、ファーウェイが独自の技術力でハイエンド市場での存在感を維持しようとする姿勢がうかがえる。超薄型デザインは携帯性やデザイン性を追求する一方で、バッテリー容量や冷却性能などの課題も伴うため、そのバランスが焦点となる。
+
+【参照元サイト (2件)】
+- https://ascii.jp/elem/000/004/350/4350296/?rss
+- https://gigazine.net/news/20251107-huawei-mate-70-air/]]></description>
+<guid isPermaLink="false">HUAWEI Mate 70 Air、超薄型スマホの挑戦-1762519423979</guid>
+<pubDate>Fri, 07 Nov 2025 12:43:43 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[AI・ドローンで進化するクマ対策 (サイト数: 2)]]></title>
+<link>https://xtech.nikkei.com/atcl/nxt/column/18/00138/110501887/</link>
+<description><![CDATA[【要約】
+近年、人里でのクマ出没が社会問題となる中、その対策に最新テクノロジーが導入され始めている。AIを活用してクマを自動で発見し、ドローンが空から忌避スプレーを散布するといった、ハイテクなアプローチが実証段階にある。これは従来の捕獲や追い払いとは異なる、予防的な対策として期待されている。テクノロジーを駆使することで、人間と野生動物との共存を目指し、人々の安全を確保するための新たな可能性が探られている。
+
+【参照元サイト (2件)】
+- https://xtech.nikkei.com/atcl/nxt/column/18/00138/110501887/
+- https://ascii.jp/elem/000/004/350/4350266/?rss]]></description>
+<guid isPermaLink="false">AI・ドローンで進化するクマ対策-1762519423979</guid>
+<pubDate>Fri, 07 Nov 2025 12:43:43 GMT</pubDate>
+</item>
+</channel>
+</rss>
